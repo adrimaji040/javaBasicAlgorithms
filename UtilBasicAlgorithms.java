@@ -16,6 +16,12 @@ public class UtilBasicAlgorithms
         return "In construccion";
     }
 
+    
+    public String FibonacciSerie(int number)
+    {
+        return "In construccion";
+    }
+
 
 
 
